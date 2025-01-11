@@ -24,7 +24,7 @@ import img19 from "../public/Third-Project/3rd sub 2 mock.jpg"
 import img20 from "../public/Fourth-Project/1st main 2.jpg"
 import img21 from "../public/Fifth-Project/4TH MAIN 1ST ONE.jpg"
 import img22 from "../public/Fifth-Project/4TH MAIN 2ND ONE.jpg"
-import img23 from "../public/Fifth-Project/4TH MAIN 3rd one (2).jpg"
+// import img23 from "../public/Fifth-Project/4TH MAIN 3rd one (2).jpg"
 import img24 from "../public/Fifth-Project/4TH MAIN 3rd one.jpg"
 import img25 from "../public/Fifth-Project/4TH MAIN 4th one.jpg"
 import img26 from "../public/Fifth-Project/4th sub 1.jpg"
@@ -220,7 +220,7 @@ export const projects = [
     url: 'https://react-projects.netlify.app/',
     github: 'https://github.com/john-smilga',
     title: 'Fifth project',
-    extraImages: [img22, img23, img24, img25, img26, img27, img28],
+    extraImages: [img22, img24, img25, img26, img27, img28],
     text: 'This is a series of ads for Canon, W.H.O., and Myntra.',
   },
   {
