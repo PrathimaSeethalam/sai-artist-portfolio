@@ -102,13 +102,26 @@ import img87 from "../public/Twelth-Project/12th sub 6.png"
 import img88 from "../public/Sixteenth-Project/image (1).png"
 import img89 from "../public/Sixteenth-Project/image (2).png"
 
-import img89 from "../public/Sixteenth-Project/image (1).png"
-import img90 from "../public/Sixteenth-Project/image (2).png" 
-import img91 from "../public/Sixteenth-Project/image (2).png"
-import img92 from "../public/Sixteenth-Project/image (2).png"
-import img93 from "../public/Sixteenth-Project/image (2).png"
-import img94 from "../public/Sixteenth-Project/image (2).png" 
-import img95 from "../public/Sixteenth-Project/image (2).png"
+import img90 from "../public/Fifteenth-Project/1.jpeg"
+import img96 from "../public/Fifteenth-Project/2.jpeg"
+import img91 from "../public/Fifteenth-Project/3.jpeg"
+import img92 from "../public/Fifteenth-Project/4.jpeg"
+import img93 from "../public/Fifteenth-Project/5.jpeg"
+import img94 from "../public/Fifteenth-Project/6.jpeg"
+import img95 from "../public/Fifteenth-Project/7.jpeg"
+import img97 from "../public/Fifteenth-Project/8.jpeg"
+import img98 from "../public/Fifteenth-Project/9.jpeg"
+import img99 from "../public/Fifteenth-Project/10.jpeg"
+import img100 from "../public/Fifteenth-Project/11.jpeg"
+import img101 from "../public/Fifteenth-Project/12.jpeg"
+import img102 from "../public/Fifteenth-Project/13.jpeg"
+import img103 from "../public/Fifteenth-Project/14.jpeg"
+import img104 from "../public/Fifteenth-Project/15.jpeg"
+import img105 from "../public/Fifteenth-Project/16.jpeg"
+import img106 from "../public/Fifteenth-Project/17.jpeg"
+import img107 from "../public/Fifteenth-Project/18.jpeg"
+import img108 from "../public/Fifteenth-Project/19.jpeg"
+import img109 from "../public/Fifteenth-Project/20.jpeg"
 
 
 
@@ -307,8 +320,9 @@ export const projects = [
     url: 'https://react-projects.netlify.app/',
     github: 'https://github.com/john-smilga',
     title: 'Fifteenth project',
-    extraImages: [img77],
-    text: 'AI-generated images created with a camera-like effect.',
+    text: 'This are the AI photos generated of camera',
+    extraImages: [img88,img89, img77],
+
   },
   {
     id: nanoid(),
@@ -317,8 +331,9 @@ export const projects = [
     url: 'https://react-projects.netlify.app/',
     github: 'https://github.com/john-smilga',
     title: 'Sixteenth project',
-    extraImages: [img88,img89],
-    text: "This are the AI photos generated of camera",
+    extraImages: [ img90, img91, img92, img93, img94, img95, img96, img97, img98, img99, img100. img101, img102, img103, img104, img105, img106, img107, img108, img109],
+
+    text: "This is my UI and UX design of book my show ",
   },
   {
     id: nanoid(),
